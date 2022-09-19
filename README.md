@@ -32,7 +32,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 ---
 
  - [ ] todo list
- - [ ] done
+ - [X] done
  
  ---
 python code 
