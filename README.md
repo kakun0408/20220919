@@ -63,3 +63,9 @@ raw Markdown line up prettily.You can also use inline Markdown.
 | :------- |:-------:| ----------:|
 | *Still*  | `renders` | **nicely** |
 | 1        | 2       | 3          |
+
+**PERT/CPM 圖**
+![](https://github.com/kakun0408/20220919/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%B9%AA%E5%9C%96.jpg)
+
+**甘特圖**
+![](https://github.com/kakun0408/20220919/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
